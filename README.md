@@ -13,5 +13,5 @@
 
 ### 5주차
 
-- [User Story](RAD/UserStory.md) 작성
+- [User Story](RAD/Requirements.md) 작성
 - [UseCase](UseCaseDiagram/UseCase.md) 작성
