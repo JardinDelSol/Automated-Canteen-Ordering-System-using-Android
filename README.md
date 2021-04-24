@@ -19,6 +19,6 @@
 ### 6주차
 - [Use Case Diagram](UseCaseDiagram/UseCaseDiagram_revised.pdf) 작성
 - Detailed Use Case 분담
-    - [UC-1: Make Order](UseCaseModelDetailed%20Use%20Case.docx") - 혜미
+    - [UC-1: Make Order](UseCaseModelUC-1%20Detailed%20Use%20Case.docx") - 혜미
 ### 7주차
 - 
