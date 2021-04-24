@@ -19,7 +19,7 @@
 ### 6주차
 - [Use Case Diagram](UseCaseDiagram/UseCaseDiagram_revised.pdf) 작성
 - Detailed Use Case 분담
-    - [UC-1: Make Order](UseCaseModel/UC-1 Detailed Use Case.docx) - 혜미
+    - [UC-1:MakeOrder](UseCaseModel/UC-1 Detailed Use Case.docx) - 혜미
     - [UC-2: Take Order]- 승규
     - [UC-3: Edit menu] - 훈석
     - [UC-4: Look Menu] - 명진
