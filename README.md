@@ -15,3 +15,7 @@
 
 - [User Story](RAD/Requirements.md) 작성
 - [UseCase](UseCaseDiagram/UseCase.md) 작성
+
+### 6주차
+- [UseDiagram](UseCaseDiagram/UseCase_revised.pdf) 작성
+- Detailed Use Case 분담
