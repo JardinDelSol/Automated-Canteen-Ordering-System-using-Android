@@ -41,6 +41,9 @@
     - [UC-8: User Authentication](https://github.com/JardinDelSol/Automated-Canteen-Ordering-System-using-Android/blob/main/DomainModels/UC-8%20Domain%20Model.docx) -훈석
     - [UC-9: Order History](https://github.com/JardinDelSol/Automated-Canteen-Ordering-System-using-Android/blob/main/DomainModels/UC-9%20Domain%20Model.docx) - 유지
 
+### 7주차
+- 분담한 내용에 대한 피드백
+
 ### 8주차
 - [Use Case Models](UseCaseModel), [Domain Models](DomainModels) 수정 및 보완
     - UC:1/2/3 - 혜미, 승규
