@@ -17,5 +17,8 @@
 - [UseCase](UseCaseDiagram/UseCase.md) 작성
 
 ### 6주차
-- [UseDiagram](UseCaseDiagram/UseCaseDiagram_revised.pdf) 작성
+- [Use Case Diagram](UseCaseDiagram/UseCaseDiagram_revised.pdf) 작성
 - Detailed Use Case 분담
+
+### 7주차
+- 
