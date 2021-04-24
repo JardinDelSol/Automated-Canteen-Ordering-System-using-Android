@@ -17,5 +17,17 @@
 - [UseCase](UseCaseDiagram/UseCase.md) 작성
 
 ### 6주차
-- [UseDiagram](UseCaseDiagram/UseCaseDiagram_revised.pdf) 작성
+- [Use Case Diagram](UseCaseDiagram/UseCaseDiagram_revised.pdf) 작성
 - Detailed Use Case 분담
+    - [UC-1: Make Order](UseCaseModel/UC-1 Detailed Use Case.docx) - 혜미
+    - [UC-2: Take Order]- 승규
+    - [UC-3: Edit menu] - 훈석
+    - [UC-4: Look Menu] - 명진
+    - [UC-5: Add Review] - 주혜
+    - [UC-6: Notify Order] - 주혜
+    - [UC-7: Money Management] - 유지
+    - [UC-8: User Authentication] -훈석
+    - [UC-9: Order History] - 유지
+
+### 7주차
+- 
