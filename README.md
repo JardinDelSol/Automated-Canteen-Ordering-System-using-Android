@@ -32,4 +32,4 @@
     - UC:1/2/3 - 혜미, 승규
     - UC:4/5/6 - 명진, 주혜
     - UC:7/8/9 - 훈석, 유지
-- [TraceaBilityMatrix]() 작성
+- TraceaBilityMatrix 작성
