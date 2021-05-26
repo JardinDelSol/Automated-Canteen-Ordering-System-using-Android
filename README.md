@@ -33,3 +33,6 @@
     - UC:4/5/6 - 명진, 주혜
     - UC:7/8/9 - 훈석, 유지
 - TraceaBilityMatrix 작성
+
+### Development
+- [Use Case 7](https://github.com/JardinDelSol/Automated-Canteen-Ordering-System-UC7)에서 개발 진행
