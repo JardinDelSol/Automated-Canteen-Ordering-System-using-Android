@@ -38,4 +38,4 @@
 - [Use Case 7](https://github.com/JardinDelSol/Automated-Canteen-Ordering-System-UC7)에서 개발 진행
 - [Use Case 4](https://github.com/pithesun/lookMenu)에서 개발 진행
 - [Use Case 1](https://github.com/leehyemie/Automated-Canteen-Ordering-System-using_Make-Order)에서 개발 진행 
-- 
+
